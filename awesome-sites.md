@@ -62,3 +62,5 @@
 19. [Vsauce](https://www.youtube.com/user/Vsauce/videos)
 
   > How amazing world.
+  
+20. [Bill Gate Notes](https://www.gatesnotes.com)
