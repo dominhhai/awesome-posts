@@ -22,6 +22,7 @@ Awesome posts/ articles from the Internet
 #### [Philosophy](/Life/Philosophy)
 1. [15 câu nói nổi tiếng của Albert Einstein](/Life/Philosophy/15-cau-noi-noi-tieng-cua-albert-einstein.md)
 2. [Vạn vật là tùy duyên](/Life/Philosophy/van-su-la-tuy-duyen.md)
+3. [30 điều bạn cần suy nghĩ cho bản thân](/Life/Philosophy/30-dieu-ban-can-suy-nghi-cho-ban-than.md)
 
 #### [Social](/Life/Social)
 1. [サイハー用語 50本ノック](/Life/Social/サイバー用語%2050本ノック.md)
