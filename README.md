@@ -24,7 +24,7 @@ Awesome posts/ articles from the Internet
 2. [Vạn vật là tùy duyên](/Life/Philosophy/van-su-la-tuy-duyen.md)
 
 #### [Social](/Life/Social)
-1. (サイハー用語 50本ノック)[/Life/Social/サイバー用語%2050本ノック.md]
+1. [サイハー用語 50本ノック](/Life/Social/サイバー用語%2050本ノック.md)
 
 ## [Work](/Work)
 
