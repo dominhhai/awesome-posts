@@ -13,7 +13,7 @@ Awesome posts/ articles from the Internet
 2. [SEのコミュニケーション能力向上がITを「武器」に変える](/Computer/Skill/SEのコミュニケーション能力向上がITを「武器」に変える%20.md)
 
 ## [Bonsai](/Bonsai)
-## [Book](/Book)
+## [Books](/Books)
 ## [Life](/Life)
 #### [Moving](/Life/Moving)
 1. [What 13 Successful People Do Before Going To Bed](/Life/Moving/What 13 Successful People Do Before Going To Bed.md)
