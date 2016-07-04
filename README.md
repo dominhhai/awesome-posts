@@ -16,6 +16,8 @@ Awesome posts/ articles from the Internet
 1. [Kĩ thuật chăm sóc Lan](/Bonsai/ki-thuat-cham-soc-lan.md)
 
 ## [Books](/Books)
+1. [Animal Farm](/Books/animal-farm.md)
+
 ## [Life](/Life)
 1. [恋するとは](/Life/恋するとは.md)
 
