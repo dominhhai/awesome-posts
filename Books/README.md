@@ -1,3 +1,4 @@
 # Book Hunter
 
-1. [Animal Farm](./animal-farm.md)
+1. [Why Read Every Day?](./Why-You-Should-Read-Every-Day.md)
+2. [Animal Farm](./animal-farm.md)
