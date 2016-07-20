@@ -16,7 +16,9 @@ Awesome posts/ articles from the Internet
 1. [Kĩ thuật chăm sóc Lan](/Bonsai/ki-thuat-cham-soc-lan.md)
 
 ## [Books](/Books)
-1. [Animal Farm](/Books/animal-farm.md)
+1. [Why Read Every Day?](/Books/Why-You-Should-Read-Every-Day.md)
+2. [Animal Farm](/Books/animal-farm.md)
+3. [Zero to One](/Books/0to1.md)
 
 ## [Life](/Life)
 1. [恋するとは](/Life/恋するとは.md)
