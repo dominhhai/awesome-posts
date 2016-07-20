@@ -7,6 +7,7 @@ Awesome posts/ articles from the Internet
 
 #### [Programming](/Computer/Programming)
 1. [Unix Philosophy](/Computer/Programming/unix-philosophy.md)
+2. [Bug on Regular Expression](/Computer/Programming/bug_regex.md)
 
 #### [Skill](/Computer/Skill)
 1. [How to learn programming](/Computer/Skill/how-i-learned-to-program-computers.md)
