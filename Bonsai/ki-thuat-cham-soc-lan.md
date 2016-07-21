@@ -199,33 +199,33 @@ Khoa học đã cho ta thấy là bất cứ loài cây nào cũng cần đến 
 Sau bao nhiêu năm nghiên cứu người ta biết rằng tất cả loại phân bón dù là hữu cơ như phân bò, phân gà, phân cá, vỏ sò v.v... hay phân hóa học đều gồm 3 thành phần theo thứ tự N-P-K, nhưng chỉ có phân hóa học các nhà chế tạo mới phân chất rõ ràng.
  
 #### PHÂN HÓA HỌC
-• Chất đạm (Nitrogen) để tốt cho lá và cho cây mọc mạnh
-• Chất lân (Phosphorus) để bón cho hoa và quả.
-• Chất ka-li (Potassium) để bón cho rễ hay củ
+* Chất đạm (Nitrogen) để tốt cho lá và cho cây mọc mạnh
+* Chất lân (Phosphorus) để bón cho hoa và quả.
+* Chất ka-li (Potassium) để bón cho rễ hay củ
  
 Những chất này thường biểu tượng nhiều hay ít bằng 3 nhóm chữ số. Thí dụ:
  
-⇒ 30-10-10 tức là chất Nitrogen nhiều gấp 3 lần hai chất kia giúp cho lá và cây mọc mạnh.
-⇒ 10-30-20 tức là trong phân có 1 phần Nitrogen, 3 phần Phophorus và 2 phần Potassium
-⇒ 20-20-20 tức là 3 phần đều nhau.
+* ⇒ 30-10-10 tức là chất Nitrogen nhiều gấp 3 lần hai chất kia giúp cho lá và cây mọc mạnh.
+* ⇒ 10-30-20 tức là trong phân có 1 phần Nitrogen, 3 phần Phophorus và 2 phần Potassium
+* ⇒ 20-20-20 tức là 3 phần đều nhau.
  
-» Thiếu chất đạm lan sẽ mọc chậm, lá sẽ quặt quẹo vàng vọt
-» Thiếu chất lân lan ra rễ ít, lá mầu xanh tím, khó ra hoa.
-» Thiếu ca li cây không phát triển, là vàng úa.
+* » Thiếu chất đạm lan sẽ mọc chậm, lá sẽ quặt quẹo vàng vọt
+* » Thiếu chất lân lan ra rễ ít, lá mầu xanh tím, khó ra hoa.
+* » Thiếu ca li cây không phát triển, là vàng úa.
  
 Kinh nghiệm cho biết rằng:
-• Những cây ở ngoài ánh nắng cần nhiều phân hơn những cây mọc trong bóng mát.
-• Chỉ nên pha với ½ hay ¼ theo chỉ dẫn của nhà sản xuất.
-• Cây nguyên giống (species) cần ít phân hơn những cây lai giống (hybrids).
-• Bón ít phân cây không chết, trái lại bón nhiều phân có thể làm chết cây.
-• Nên bón với dung lượng thấp tức là chỉ ½ hay ¼ lời chỉ dẫn và bón hàng tuần (Fertilize weakly and weekly)
-• Nên dùng những thứ phân có thể hòa tan trong nước mà không đóng cặn.
-• Không nên dùng phân có chất Urea vì phải cần một thời gian mới có tác dụng.
-• Không nên dùng phân viên, phân que hay phân hột có thể làm cháy rễ
-• Không nên dùng phân chậm tan (slow released) vì phải trên 70°F hay 21°C mới tan
-• Địa lan (Terrestrial) cần nhiều phân bón hơn phong lan (Epiphyte)
-• Không nên dùng phân bón cho cỏ hay các cây cối khác để tưới cho lan, vì những loại phân này rất mạnh. Thí dụ 30-10-10 mạnh gấp 10 lần 3-1-1.
-• Không nên bón phân khi rễ cây quá khô, tốt nhất là tưới nước ngày hôm trước, hôm sau sẽ bón phân. Cây sẽ không bị sót và phân dễ thấm vào trong chậu.
+* Những cây ở ngoài ánh nắng cần nhiều phân hơn những cây mọc trong bóng mát.
+* Chỉ nên pha với ½ hay ¼ theo chỉ dẫn của nhà sản xuất.
+* Cây nguyên giống (species) cần ít phân hơn những cây lai giống (hybrids).
+* Bón ít phân cây không chết, trái lại bón nhiều phân có thể làm chết cây.
+* Nên bón với dung lượng thấp tức là chỉ ½ hay ¼ lời chỉ dẫn và bón hàng tuần (Fertilize weakly and weekly)
+* Nên dùng những thứ phân có thể hòa tan trong nước mà không đóng cặn.
+* Không nên dùng phân có chất Urea vì phải cần một thời gian mới có tác dụng.
+* Không nên dùng phân viên, phân que hay phân hột có thể làm cháy rễ
+* Không nên dùng phân chậm tan (slow released) vì phải trên 70°F hay 21°C mới tan
+* Địa lan (Terrestrial) cần nhiều phân bón hơn phong lan (Epiphyte)
+* Không nên dùng phân bón cho cỏ hay các cây cối khác để tưới cho lan, vì những loại phân này rất mạnh. Thí dụ 30-10-10 mạnh gấp 10 lần 3-1-1.
+* Không nên bón phân khi rễ cây quá khô, tốt nhất là tưới nước ngày hôm trước, hôm sau sẽ bón phân. Cây sẽ không bị sót và phân dễ thấm vào trong chậu.
  
 #### PHÂN HỮU CƠ
 Những thứ phân này không được phổ thông bởi vì ít có người chế tạo, ngoại trừ nước cá (fish emulsion) có chỉ số 3-1-1. Các thứ phân khá phổ biến như phân bò phân, phân gà, bánh dầu v.v... cần phải để cho mục sau đó pha với nước và tưới. Nhưng những thứ này không được phân chất rỏ ràng hơn nữa lại có mùi và có thể có nhiều vi trùng hay nấm bệnh trong đó.
@@ -273,11 +273,11 @@ Nên nhớ rễ có nhiệm vụ hút nước và chất bổ dưỡng để nu�
 Chúng ta cũng đừng nhầm lẫn giữa thối rễ và tưới không đủ nước. Nếu tưới không đủ, cây sẽ bị cằn cỗi và không tăng trưởng đúng mức chứ không bị nhăn nheo, ngoại trừ trường hợp bỏ quên không tưới cả tháng. Những loại lan có lá dài và mềm như Oncidium, Brassia hay Odontoglossum... khi thiếu nước lá sẽ có triệu chứng chun xếp lại. Nếu tưới thấy lá lan vàng ra, mềm nhũn và rụng đó là dấu hiệu của việc tưới quá thường xuyên và hậu quả là thối rễ, lá nhăn nheo và rụng (ngoại trừ trường hợp của những loài lan rụng lá vào cuối mùa thu).
  
 Khi lá lan bị nhăn nheo hay mềm nhũn, chứng tỏ tình trạng rễ bị thối. Ta hãy:
-• Rút cây ra khỏi chậu.
-• Rửa rễ và cây cho sạch.
-• Cắt bỏ rễ thối.
-• Phun thuốc sát trùng, diệt nấm.
-• Trồng lại với vật liệu mới đã ngâm nước tối thiểu 24 giờ.
+* Rút cây ra khỏi chậu.
+* Rửa rễ và cây cho sạch.
+* Cắt bỏ rễ thối.
+* Phun thuốc sát trùng, diệt nấm.
+* Trồng lại với vật liệu mới đã ngâm nước tối thiểu 24 giờ.
  
 Nguyễn Kim Lan 2/2009
 
@@ -317,12 +317,13 @@ Sau khi ra hoa, lan bước vào thời kỳ nghỉ ngơi. Thời kỳ này tuy 
  
 Theo kinh nghiệm, hãy bớt tưới nước khi thấy cây ngừng tăng trưởng hay khi có gió lạnh thổi về, hoặc ban đêm lạnh xuống. Tiếp tục tưới nước mỗi tuần một lần cho các loài Cymbidium, Miltoniopsis, Paphiopedilum, Stanhopea, Zygopetalum nói tóm lại những cây xanh tốt quanh năm (evergreen). Những cây này không lúc nào được để khô rễ.Thực ra việc tưới nước và bón phân trong giai đoạn này không đơn giản nếu chúng ta trồng nhiều lọai mà lại để chung một chỗ. Ngoài ra lại việc này còn tùy thuộc vào:
  
-• Chậu to hay nhỏ, vì chậu nhỏ mau khô.
-• Chậu đất mau khô hơn chậu nhựa.
-• Vật liệu trồng lan cũng thế. Vỏ cây mau khô hơn rêu (sphagnum moss)
-• Nhiệt độ cao làm cho vỏ cây mau khô hơn nhiệt độ thấp.
-• Ẩm độ cao, không cần tưới nhiều.
-• Gió càng nhiều, chậu càng chóng khô.
+* Chậu to hay nhỏ, vì chậu nhỏ mau khô.
+* Chậu đất mau khô hơn chậu nhựa.
+* Vật liệu trồng lan cũng thế. Vỏ cây mau khô hơn rêu (sphagnum moss)
+* Nhiệt độ cao làm cho vỏ cây mau khô hơn nhiệt độ thấp.
+* Ẩm độ cao, không cần tưới nhiều.
+* Gió càng nhiều, chậu càng chóng khô.
+
 Đối với các nhà vườn thời kỳ ngủ, nghỉ (dormancy & rest period) đây là thời kỳ thuận tiện nhất để gửi lan đi nơi khác, vì thân cây lúc đó mập mạp cứng cáp, không sợ gẫy chồi hư rễ. Các bạn cũng nên nhớ rằng đây không phải là thời kỳ thuận tiện để sang chậu hay tách nhánh.
  
 Vì vậy chị em chúng ta cần quan sát cho kỹ, vì nuôi lan chẳng khác gì nuôi con mọn, không giống như cái ông nào đó nói: "Trồng Lan dễ ợt à" họa chăng trồng Lan biết nói. Nhưng coi chừng, trồng cái thứ lan này lại càng phiền toái, nhiêu khê rắc rối cuộc đời hơn nữa. Đừng có ham mà tan nhà nát cửa!
@@ -335,23 +336,23 @@ Lan nếu được nuôi dưỡng đúng cách, cây sẽ khỏe mạnh, đâm c
  
 Nguyên nhân làm cho lan không được khỏe mạnh liên quan đến nhiều vấn đề khá quan trọng như: nhiệt độ, ánh sáng, ẩm độ, tưới nước, phân bón v.v… nhưng 80% là tưới quá thường xuyên. Nên nhớ lan cần ẩm độ cao nhưng không cần tưới quá nhiều nước.
  
-• Nóng quá cây sẽ bị còi cọc, lá vàng vọt không lớn được, hoa chóng tàn.
-• Lạnh quá nhựa cây không lưu chuyển được, cây yếu dần và dễ bị bệnh.
-• Thay đổi nhiệt độ đột ngột nụ hoa sẽ thui chột và bị rụng
-• Nắng quá cây sẽ làm cháy lá, úa vàng cằn cỗi.
-• Thiếu ánh sáng cây èo uột, lá mềm và rũ xuống.
-• Ẩm độ quá thấp củ bẹ nhăn nheo, teo tóp lại.
-• Ẩm độ quá cao, cây dễ bị nhiễm bệnh.
-• Thiếu nước cây bị khô cằn, lá bị nhăn nhúm chun xếp lại.
-• Quá nhiều nước cây sẽ bị thối củ, thối rễ
-• Bón quá nhiều cây sẽ bị còi cọc vì muối đọng trong chậu làm cháy rễ, đầu lá bị cháy.
-• Thiếu phân bón thường có những hiện tượng sau:
-• Thiếu chất đạm (nitrogen) cây không lớn, lá từ từ lá vàng úa, lá già trước lá non sau
-• Thừa chất đạm lá xanh mướt, dài và mềm
-• Thiếu chất lân (phosphorous) lá ngắn và nhỏ
-• Thừa chất lân cây thấp, lá ít và dầy, ra hoa sớm, dò hoa thấp ngắn.
-• Thiếu chất cali (potassium) cây bị mềm yếu, lá bị xoăn lại và không ra hoa
-• Thừa cali thân cây và lá bị nhỏ đi, cây không lớn được.
+* Nóng quá cây sẽ bị còi cọc, lá vàng vọt không lớn được, hoa chóng tàn.
+* Lạnh quá nhựa cây không lưu chuyển được, cây yếu dần và dễ bị bệnh.
+* Thay đổi nhiệt độ đột ngột nụ hoa sẽ thui chột và bị rụng
+* Nắng quá cây sẽ làm cháy lá, úa vàng cằn cỗi.
+* Thiếu ánh sáng cây èo uột, lá mềm và rũ xuống.
+* Ẩm độ quá thấp củ bẹ nhăn nheo, teo tóp lại.
+* Ẩm độ quá cao, cây dễ bị nhiễm bệnh.
+* Thiếu nước cây bị khô cằn, lá bị nhăn nhúm chun xếp lại.
+* Quá nhiều nước cây sẽ bị thối củ, thối rễ
+* Bón quá nhiều cây sẽ bị còi cọc vì muối đọng trong chậu làm cháy rễ, đầu lá bị cháy.
+* Thiếu phân bón thường có những hiện tượng sau:
+* Thiếu chất đạm (nitrogen) cây không lớn, lá từ từ lá vàng úa, lá già trước lá non sau
+* Thừa chất đạm lá xanh mướt, dài và mềm
+* Thiếu chất lân (phosphorous) lá ngắn và nhỏ
+* Thừa chất lân cây thấp, lá ít và dầy, ra hoa sớm, dò hoa thấp ngắn.
+* Thiếu chất cali (potassium) cây bị mềm yếu, lá bị xoăn lại và không ra hoa
+* Thừa cali thân cây và lá bị nhỏ đi, cây không lớn được.
  
 Kinh nghiệm cho biết lan cần rất ít phân bón vì vậy chỉ nên bón thật loãng và thưa, ngoại trừ Vanda, Dendrobium và Cymbidium. Những giống nguyên thủy (species) không ưa nhiều phân bón.
 Những khiếm khuyết kể trên làm cho cây yếu ớt nên dễ bị bệnh. Thông thường do những vết trầy, cắt hay gẫy, khi bị quá ẩm ướt vào mùa mưa lạnh lại bị thiếu nắng, không thoáng gió thêm vào quá nhiều phân bón.
@@ -360,14 +361,15 @@ Những chứng bệnh của hoa lan được xếp vào 3 nhóm như sau: nhi�
 #### NHIỄM TRÙNG Đốm và thối (Bacterial spot/Rot)
 Bệnh nay do vi trùng Pseudomonas và Erwirnia làm cho chết cây và lan sang các cây khác mau lẹ. Dấu hiệu: Lá hay cuống lá có đốm hay vệt mầu nâu hay đen hay phỏng nước từ từ loang to. Hoa có đốm mầu hồng hay nâu nhạt .Rễ bị nhũn ra và ngửi có mùi hôi.
 Cách ngăn ngừa và chữa trị chứng bệnh này là
-• Hãy cắt bỏ hết những chỗ bị thối và cắt sâu thêm ít nhất là 2 phân vào phần còn khỏe mạnh.
-• Dao kéo cắt cây phải đốt qua lửa để diệt trùng.
-• Rắc bột diêm sinh vào chỗ cắt để khử trùng, khử nấm.
-• Nếu gốc cây hoặc rễ bị thối nên thay chậu bằng chậu sạch và vỏ cây mới.
-• Để xa những cây lành mạnh
-• Tăng cường sự thoáng gió
-• Giảm độ ẩm
-• Bớt tưới nước và tránh làm ướt lá.
+
+* Hãy cắt bỏ hết những chỗ bị thối và cắt sâu thêm ít nhất là 2 phân vào phần còn khỏe mạnh.
+* Dao kéo cắt cây phải đốt qua lửa để diệt trùng.
+* Rắc bột diêm sinh vào chỗ cắt để khử trùng, khử nấm.
+* Nếu gốc cây hoặc rễ bị thối nên thay chậu bằng chậu sạch và vỏ cây mới.
+* Để xa những cây lành mạnh
+* Tăng cường sự thoáng gió
+* Giảm độ ẩm
+* Bớt tưới nước và tránh làm ướt lá.
  
 #### BỆNH NẤM
  
@@ -382,11 +384,11 @@ Nhưng cũng có 2 thứ vi khuẩn thông thường nhất rất dễ nhận di
  
 #### SÂU BỌ
  
-• Rệp xanh hay đen (aphid) thường bám vào nụ hoa hay cây non. Rệp không những hút hết nhựa cây mà còn truyền bệnh nữa. Xit bằng nước hay cồn 75% hay dùng cây tăm nhúng vào cồn lấy ra. Phải coi chừng khỏang 5-7 ngày sau trứng sẽ nở và phải diệt lại.
-• Rệp trắng (false spider mites) rất nhỏ nhưng người tinh mắt có thể nhìn thấy đuơc. Rệp hút nhựa cây, nếu không trị ngay, cây sẽ chết và lan rộng mau lẹ nhất là khi nhiệt độ lên cao và ẩm độ lại quá thấp. Rệp trắng hay để lại những chấm vàng nhỏ trên mặt lá Paphiopedilum hay Phalaenopsis . Dùng xà phòng loại sát trùng (insecticidal soap) Mathalion hay pha 1 thía cà phê xà phòng rửa chén với 1 thìa cà phê dầu ăn loại thực vật, 250 ml cồn và 250 ml nuớc cho vào bình xit, lắc cho thật đều rồi xịt 3 lần, cách nhau một tuần lễ.
-• Rệp đỏ (Red Spider mites) cũng rất nhỏ để lại những chấm mầu bạc ở mặt dưới lá Cymbidium hay Dendrobium. Diệt trừ như trên.
-• Rệp bông (mealy bugs) có thể nhìn thấy dễ dàng, thường để lại dấu vết như bông gòn ở cuống hoa, gốc cây. Diệt trừ như trên.
-• Rệp vẩy (scales) có 2 loại: vỏ cứng mầu nâu và gồ cao lên rất dễ nhận ở trên mặt, phía dưới lá hay thân cây. Loại thứ hai rệp sáp mầu trắng hay nâu nhạt, mềm và nhỏ còn có tên Boisduval scales. thường ở dưới lá, cuống hoa và tệ hại nhất là chui vào những ngóc ngách cúa cuống lá, bẹ hoa khó lòng diệt trừ. Loại vỏ cứng chỉ cần lấy ra còn loại mềm phai dùng thuốc diệt trùng loại ngấm vào cây (systemic insectiside) hay dung dịch kể trên phun nhiều lần mới hết.
-• Ruồi trắng (white fly) thường hay bám ở mặt dưới lá đẻ trứng và sinh sàn mau lẹ. Mới đầu chỉ là nhửng vòng trắng nho nhỏ sau đó thành bầy và lan ra các cây khác. Cách diệt trừ như trên.
-• Kiến tưởng như vô hại nhưng thực ra mang rệp và đủ chứng bệnh cho lan cần phải tuyệt diệt bằng Malathion hay Diazinon hay rắc Diazinon hạt trên mặt chậu rời tuới nước cho ngấm xuống.
-• Ốc sên và sên không vỏ (Snails, Slugs) Hai thứ này rất tai hại, không những ăn hoa, nụ còn ăn cả lá hoặc cây non, nhất là loại không vỏ thường trú ấn trong chậu cây. Chúng thường để lại những vết nhớt nên rất dễ nhận ra .Dièt trừ bắng các loại thuốc diệt sên có chất metaldehyde như Correy's chẳng hạn. Có thể rắc muối dưới đất, nhưng đừng rắc vào trong chậu.Ngoài ra có thể soi đèn vào buổi tối, hay đổ rượu bia vào chiếc đĩa để bắt sên.
+* Rệp xanh hay đen (aphid) thường bám vào nụ hoa hay cây non. Rệp không những hút hết nhựa cây mà còn truyền bệnh nữa. Xit bằng nước hay cồn 75% hay dùng cây tăm nhúng vào cồn lấy ra. Phải coi chừng khỏang 5-7 ngày sau trứng sẽ nở và phải diệt lại.
+* Rệp trắng (false spider mites) rất nhỏ nhưng người tinh mắt có thể nhìn thấy đuơc. Rệp hút nhựa cây, nếu không trị ngay, cây sẽ chết và lan rộng mau lẹ nhất là khi nhiệt độ lên cao và ẩm độ lại quá thấp. Rệp trắng hay để lại những chấm vàng nhỏ trên mặt lá Paphiopedilum hay Phalaenopsis . Dùng xà phòng loại sát trùng (insecticidal soap) Mathalion hay pha 1 thía cà phê xà phòng rửa chén với 1 thìa cà phê dầu ăn loại thực vật, 250 ml cồn và 250 ml nuớc cho vào bình xit, lắc cho thật đều rồi xịt 3 lần, cách nhau một tuần lễ.
+* Rệp đỏ (Red Spider mites) cũng rất nhỏ để lại những chấm mầu bạc ở mặt dưới lá Cymbidium hay Dendrobium. Diệt trừ như trên.
+* Rệp bông (mealy bugs) có thể nhìn thấy dễ dàng, thường để lại dấu vết như bông gòn ở cuống hoa, gốc cây. Diệt trừ như trên.
+* Rệp vẩy (scales) có 2 loại: vỏ cứng mầu nâu và gồ cao lên rất dễ nhận ở trên mặt, phía dưới lá hay thân cây. Loại thứ hai rệp sáp mầu trắng hay nâu nhạt, mềm và nhỏ còn có tên Boisduval scales. thường ở dưới lá, cuống hoa và tệ hại nhất là chui vào những ngóc ngách cúa cuống lá, bẹ hoa khó lòng diệt trừ. Loại vỏ cứng chỉ cần lấy ra còn loại mềm phai dùng thuốc diệt trùng loại ngấm vào cây (systemic insectiside) hay dung dịch kể trên phun nhiều lần mới hết.
+* Ruồi trắng (white fly) thường hay bám ở mặt dưới lá đẻ trứng và sinh sàn mau lẹ. Mới đầu chỉ là nhửng vòng trắng nho nhỏ sau đó thành bầy và lan ra các cây khác. Cách diệt trừ như trên.
+* Kiến tưởng như vô hại nhưng thực ra mang rệp và đủ chứng bệnh cho lan cần phải tuyệt diệt bằng Malathion hay Diazinon hay rắc Diazinon hạt trên mặt chậu rời tuới nước cho ngấm xuống.
+* Ốc sên và sên không vỏ (Snails, Slugs) Hai thứ này rất tai hại, không những ăn hoa, nụ còn ăn cả lá hoặc cây non, nhất là loại không vỏ thường trú ấn trong chậu cây. Chúng thường để lại những vết nhớt nên rất dễ nhận ra .Dièt trừ bắng các loại thuốc diệt sên có chất metaldehyde như Correy's chẳng hạn. Có thể rắc muối dưới đất, nhưng đừng rắc vào trong chậu.Ngoài ra có thể soi đèn vào buổi tối, hay đổ rượu bia vào chiếc đĩa để bắt sên.
