@@ -56,6 +56,7 @@ Awesome posts/ articles from the Internet
 3. [Tại sao phải làm việc?](/Work/tai-sao-phai-lam-viec.md)
 4. [「ウチは仕事の出来る人ほど、残業する」と語った経営者がいた](/Work/「ウチは仕事の出来る人ほど、残業する」と語った経営者がいた.md)
 5. [なんで働かないといけないんですか？」と聞いた学生への、とある経営者の回答](/Work/なんで働かないといけないんですか？」と聞いた学生への、とある経営者の回答.md)
+6. [あなたが担う「部分」は「全体」の美に寄与しているか](/Work/do-you-understand-your-work.md)
 
 #### [Career](/Work/career)
 1. [About life and Job](/Work/career/ve-nghe-ve-doi.md)
