@@ -68,4 +68,4 @@
 22. [Free Ebook](http://www.free-ebooks.net/)
 23. [ BBC Future](http://www.bbc.com/future/)
 24. [Makezine](http://makezine.jp/)
-25/ [Psychology Today](https://www.psychologytoday.com/)
+25. [Psychology Today](https://www.psychologytoday.com/)
