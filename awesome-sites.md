@@ -66,3 +66,6 @@
 20. [Bill Gate Notes](https://www.gatesnotes.com)
 21. [WikiBook](https://en.wikibooks.org/wiki/Main_Page)
 22. [Free Ebook](http://www.free-ebooks.net/)
+23. [ BBC Future](http://www.bbc.com/future/)
+24. [Makezine](http://makezine.jp/)
+25/ [Psychology Today](https://www.psychologytoday.com/)
