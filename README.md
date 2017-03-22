@@ -25,7 +25,7 @@ Awesome posts/ articles from the Internet
 1. [恋するとは](/Life/恋するとは.md)
 
 #### [Moving](/Life/Moving)
-1. [What 13 Successful People Do Before Going To Bed](/Life/Moving/What 13 Successful People Do Before Going To Bed.md)
+1. [What 13 Successful People Do Before Going To Bed](/Life/Moving/What%2013%20Successful%20People%20Do%20Before%20Going%20To%20Bed.md)
 2. [Highlights from Bill Gates' Q&A with Global Citizen](/Life/Moving/highlights-from-bill-gates-qa-with-global-citizen.md)
 3. [Nghệ thuật nói chuyện](/Life/Moving/nghe-thuat-noi-chuyen.md)
 4. [話のわかりやすい人](/Life/Moving/話のわかりやすい人.md)
@@ -43,6 +43,7 @@ Awesome posts/ articles from the Internet
 10. [Sống an vui với những gì mình đang có](/Life/Philosophy/song-an-vui-voi-nhung-gi-dang-co.md)
 11. [Ý chí](/Life/Philosophy/y-chi.md)
 12. [年をとってから気付いた。人生で失敗した22のこと](/Life/Philosophy/年をとってから気付いた。人生で失敗した22のこと.md)
+13. [西郷南洲翁遺訓集](/Life/Philosophy/西郷南洲翁遺訓集.md)
 
 #### [Social](/Life/Social)
 1. [サイハー用語 50本ノック](/Life/Social/サイバー用語%2050本ノック.md)
