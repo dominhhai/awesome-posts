@@ -61,3 +61,8 @@ Awesome posts/ articles from the Internet
 
 #### [Career](/Work/career)
 1. [About life and Job](/Work/career/ve-nghe-ve-doi.md)
+
+### [Poem](/Poem)
+##### 1. [Nguyen Trai](/Poem/NguyenTrai)
+
+1.1. [Binh Ngo Dai Cao](/Poem/NguyenTrai/binh-ngo-dai-cao-dichvan.txt)
