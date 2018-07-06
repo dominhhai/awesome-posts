@@ -12,6 +12,7 @@ Awesome posts/ articles from the Internet
 #### [Skill](/Computer/Skill)
 1. [How to learn programming](/Computer/Skill/how-i-learned-to-program-computers.md)
 2. [SEのコミュニケーション能力向上がITを「武器」に変える](/Computer/Skill/SEのコミュニケーション能力向上がITを「武器」に変える%20.md)
+3. [How to read research paper?](/Computer/Skill/how-to-read-paper.md)
 
 ## [Bonsai](/Bonsai)
 1. [Kĩ thuật chăm sóc Lan](/Bonsai/ki-thuat-cham-soc-lan.md)
